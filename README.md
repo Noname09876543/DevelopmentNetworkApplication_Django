@@ -1,1 +1,2 @@
-# DevelopmentNetworkApplication_Django
+# LabProfi
+Django lab work (profi.ru)

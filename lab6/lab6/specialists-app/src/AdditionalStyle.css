@@ -1,0 +1,42 @@
+input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+input[type=checkbox]{
+    margin-left: 10px;
+    transform: scale(2);
+    width: 40px;
+}
+
+select{
+    margin-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+  
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0D6EFD;
+    color: white;
+    text-align: center;
+}
